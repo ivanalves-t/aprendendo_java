@@ -1,0 +1,13 @@
+package testando;
+
+public class Main {
+
+	public static void main(String[] args) {
+	
+		int x = 32;
+		System.out.println(x);
+		double y = 10.1218;
+		System.out.printf("%.1f%n", y);
+	}
+
+}
