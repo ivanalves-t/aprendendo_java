@@ -11,7 +11,7 @@ public class for07 {
         for (int i = 1; i <= N; i++) {
             System.out.print(i + " ");
             System.out.print(i * i + " ");
-            System.out.println(i * i * i + " ");
+            System.out.println(i * i * i);
         }
     }
 }
