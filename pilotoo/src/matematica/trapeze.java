@@ -1,3 +1,5 @@
+package matematica;
+
 public class trapeze {
     public static void main(String[] args) {
 

@@ -1,3 +1,5 @@
+package matematica;
+
 public class functionsMath {
     public static void main(String[] args) {
 

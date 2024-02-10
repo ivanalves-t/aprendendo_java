@@ -1,3 +1,5 @@
+package organization;
+
 public class castingClass {
     public static void main(String[] args) {
         double a;

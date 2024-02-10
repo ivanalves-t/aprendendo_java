@@ -1,3 +1,5 @@
+package organization;
+
 import java.util.Scanner;
 
 public class entradaDados2 {
